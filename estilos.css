@@ -1,0 +1,606 @@
+/*BODY*/
+body{
+				font-family:helvetica;
+				background:#000000;
+}
+/*TITULO PRINCIPAL*/
+.titulo{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+				
+}
+
+.titulo img{
+				width:60px;
+				border-radius:10px;
+				
+				
+				
+}
+
+/*PYTHON*/
+.python h2{
+				color:#00ffff;
+				font-family:Courier New;
+}
+.python p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+.python img{
+				width:900px;
+				height:900px;
+				
+}
+
+.python_2 p{
+				color:#00ff00;
+				font-family: Courier New;
+				font-size:25px;
+}
+
+.python_2 h2{
+		color:#00ffff;
+		font-family:Courier New;
+}
+/*PIE DE PAGINA PRINCIPAL*/
+.pie{
+				color:#000000;
+				background:#00ffff;
+				font-family:Helvetica;
+				font-size:30px;
+				
+}
+
+
+/*MENU*/
+.menu td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:50px;
+}
+
+
+.lista{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:40px;
+				
+}
+.lista a{
+    text-decoration:none;
+    color:#00ff00;
+    padding:20px;
+    display:block;
+	   
+	   
+}
+
+.menu li a:hover{
+				background: #000000;
+}
+/*ESTRUCTURA DE DATOS*/
+.estructura img{
+				width:60px;
+				border-radius: 10px;
+}
+. titulo estructura td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;;
+
+}
+
+.parrafo_estructura p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+/*NUMEROS EN PYTHON*/
+.titulo numeros_python img{
+				width:60px;
+				border-radius: 10px;
+}
+
+.tiulo numeros_python td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;;
+
+}
+
+.parrafo_numeros_python h2{
+			 color:#00ffff;
+			 font-family:Courier New;
+	
+}
+.parrafo_numeros_python p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*OPERACIONES SIMPLES*/
+.titulo_operaciones_simples img{
+	width:60px;
+	border-radius: 10px;
+}
+
+.titulo_operaciones_simples td{
+	color:#00ffff;
+	font-family:Arial;
+	font-size:30px;;
+}
+
+.parrafo_operaciones_simples{
+  color:#00ff00;
+	font-family:Courier New;
+	font-size:25px;
+}
+/*OPERACIONES AVANZADAS*/
+.titulo_operaciones_avanzadas img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_operaciones_avanzadas td{
+	color:#00ffff;
+	font-family:Arial;
+	font-size:30px;
+}
+
+.parrafo_operaciones_avanzadas h2{
+				color:#00ffff;
+			 font-family:Courier New;
+			 
+}
+
+
+.parrafo_operaciones_avanzadas p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+/*VARIABLES*/
+.titulo_variables img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_variables td{
+	color:#00ffff;
+	font-family:Arial;
+	font-size:30px;
+}
+
+.parrafo_variables h2{
+	  color:#00ffff;
+			font-family:Courier New;
+}
+
+.parrafo_variables p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+.parrafo_variables li{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+/*CADENA DE TEXTO*/
+.titulo_cadena_de_texto img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_cadena_de_texto td{
+	color:#00ffff;
+	font-family:Arial;
+	font-size:30px;
+}
+.parrafo_cadenas_texto h2{
+			color:#00ffff;
+			font-family:Courier New;
+}
+
+.parrafo_cadenas_texto p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+.parrafo_cadenas_texto li{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+/*LISTAS*/
+.titulo_listas img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_listas td{
+	color:#00ffff;
+	font-family:Arial;
+	font-size:30px;
+}
+
+.parrafo_listas h2{
+		 color:#00ffff;
+			font-family:Courier New;
+}
+
+.parrafo_listas p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+.parrafo_listas li{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+/*DICCIONARIOS*/
+.titulo_diccionarios img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_diccionarios td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_diccionarios li{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+.parrafo_diccionarios p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*TUPLAS*/
+.titulo_tuplas img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_tuplas td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+} 
+
+.parrafo_tuplas h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_tuplas p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*TUPLAS*/
+.titulo_sets img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_sets td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_sets h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_sets p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*BOOLEANOS*/
+.titulo_booleanos img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_booleanos td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_booleanos h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_booleanos p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*CONDICIONALES*/
+.titulo_condicionales img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_condicionales td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_condicionales h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_condicionales p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*CICLOS FOR*/
+
+.titulo_ciclos_for img{
+				width: 60px;
+				border-radiusL:10px;
+}
+
+.titulo_ciclos_for td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_ciclos_for h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_ciclos_for p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*CICLOS WHILE*/
+.titulo_ciclos_while img{
+	  width: 60px;
+		border-radiusL:10px;   			
+}
+
+.titulo_ciclos_while td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_ciclos_while h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_ciclos_while p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*PALABRAS CLAVE UTILES*/
+
+.titulo_palabras_clave img{
+				width:60px;
+				border-radius:10px;
+}
+
+.titulo_palabras_clave td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_palabras_clave h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_palabras_clave p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*OPERACIONES UTILES*/
+.titulo_operaciones_utiles img{
+				width:60px;
+				boder-radius:10px;
+}
+
+.titulo_operaciones_utiles td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_operaciones_utiles h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_operaciones_utiles p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*COMPREHENSION DE LISTAS*/
+.titulo_comprehension img{
+				width:60px;
+				boder-radius:10px;
+}
+
+.titulo_comprehension td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_comprehension h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_comprehension p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*EXPRESIONES LAMBDA, MAPAS Y FILTROS*/
+.titulo_expresiones img{
+				width:60px;
+				boder-radius:10px;
+}
+
+.titulo_expresiones td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_expresiones h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_expresiones p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*FUNCIONES ANIDADAS*/
+.titulo_funciones_anidadas img{
+				width:60px;
+				boder-radius:10px;
+}
+
+.titulo_funciones_anidadas td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_funciones_anidadas h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_funciones_anidadas p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*NAME Y MAIN*/
+.titulo_name img{
+				width:60px;
+				boder-radius:10px;
+}
+
+.titulo_name td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_name h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_name p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*MANEJO DE ERRORES*/
+.titulo_manejo img{
+				width:60px;
+				boder-radius:10px;
+}
+
+.titulo_manejo td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_manejo h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_manejo p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+
+/*ACERCA DE*/
+.titulo_acerca img{
+				width:60px;
+				boder-radius:10px;
+}
+
+.titulo_acerca td{
+				color:#00ffff;
+				font-family:Arial;
+				font-size:30px;
+}
+
+.parrafo_acerca h2{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.parrafo_acerca p{
+				color:#00ff00;
+				font-family:Courier New;
+				font-size:25px;
+}
+.parrafo_acerca h5{
+				color:#00ffff;
+				font-family: Courier New;
+}
+
+.fin{
+				color:#000000;
+				background:#00ffff;
+				font-family:Helvetica;
+				font-size:20px;
+			
